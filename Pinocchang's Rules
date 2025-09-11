@@ -1,4 +1,4 @@
-# NAME: Pinocchang'sRules
+# NAME: Pinocchang's Rules for Proxy
 # AUTHOR: Pinocchang
 # REPO: https://github.com/Pinocchang/LoonConfig
 # UPDATED: 2025-08-24
@@ -6,8 +6,6 @@
 # DOMAIN-SUFFIX: 
 # TOTAL: 37
 
-DOMAIN,api.assrt.net
-DOMAIN,api.opensubtitles.com
 DOMAIN,cosplaytele.com
 DOMAIN,lite.cn2gias.uk
 DOMAIN,pqjc.site
